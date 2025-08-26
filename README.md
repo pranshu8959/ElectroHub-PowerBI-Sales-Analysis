@@ -94,7 +94,4 @@ Compare different business periods for better planning
 Track regional sales performance for targeted campaigns
 
 Empower stakeholders with self-service, drill-down analysis
-
-
-📸 Dashboard Preview
-(Insert screenshots of your Power BI report here — e.g., Top 5 Products 
+ 
